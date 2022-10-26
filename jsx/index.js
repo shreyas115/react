@@ -4,7 +4,7 @@ const d="Shreyas";
 const h1Element=<h1>hello {d}</h1>;
 
 const mobiles=["one+","apple","samsung","realme","redmi"];
-
+// Comment
 const loopongData=mobiles.map((value) => {
     return <h1>{value}</h1>;
 });
